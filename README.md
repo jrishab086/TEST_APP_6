@@ -1,4 +1,4 @@
 
 # README
 
-Complete Ruby on rails Developer by Rishab Jain
+First Test repo on the Complete Ruby on rails Developer by Rishab Jain
